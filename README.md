@@ -78,4 +78,4 @@ https://subject-tsutsui.net
 
 
 ## 📦 Features
-詳細はhttps://subject-tsutsui.net/about_site.netに記載
+詳細は https://subject-tsutsui.net/about_site.net に記載
