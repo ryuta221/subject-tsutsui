@@ -73,10 +73,9 @@ https://subject-tsutsui.net
 コンテナの開始  
 `$ docker compose up --build -d`
 
-## 📦 Features
-詳細はhttps://subject-tsutsui.net/about_site.netに記載
-
-
-
 コンテナの削除  
 `$ docker compose down`
+
+
+## 📦 Features
+詳細はhttps://subject-tsutsui.net/about_site.netに記載
