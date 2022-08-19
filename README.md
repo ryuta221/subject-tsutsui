@@ -32,7 +32,7 @@
     <p>インフラ</p>
     <img src="./images/apache.svg"width="200" height="200"> 
     <img src="./images/mysql.svg" width="200" height="200"> 
-    <img src="./images/docker.png" width="200" height="200">
+    <img src="./images/docker.png" height="200">
     <img src="./images/docker-compose.png" height="200"> 
     <img src="./images/aws-ec2.svg" width="200" height="200"> 
     <img src="./images/aws-s3.svg" width="200" height="200">
