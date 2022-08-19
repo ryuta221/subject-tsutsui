@@ -31,9 +31,9 @@
     </div>
     <p>インフラ</p>
     <img src="./images/apache.svg"width="200" height="200"> 
-    <img src="./images/mysql.svg" width="200" height="200"> 
+    <img src="./images/mysql.svg" width="200" height="200"><br>
     <img src="./images/docker.png" height="200">
-    <img src="./images/docker-compose.png" height="200"> 
+    <img src="./images/docker-compose.png" height="200"> <br>
     <img src="./images/aws-ec2.svg" width="200" height="200"> 
     <img src="./images/aws-s3.svg" width="200" height="200">
     <img src="./images/aws-route53.svg" width="200" height="200">
