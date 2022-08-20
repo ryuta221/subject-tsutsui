@@ -65,7 +65,7 @@
 
 
 ## 🌐 App URL
-https://subject-tsutsui.net
+<a href="https://subject-tsutsui.net">https://subject-tsutsui.net</a>
 
 ## 💬 Usage  
 `$ git clone https://github.com/ryuta221/subject-tsutsui.git`
